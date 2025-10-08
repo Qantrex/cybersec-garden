@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/itsi/tools/ffuf/"}
+{"dg-publish":true,"permalink":"/itsi/tools/ffuf/","title":"ffuf","tags":["tool","ffuf","fuzzing","discovery","recon"]}
 ---
 
+# ffuf
+[Official Link](https://github.com/ffuf/ffuf)
 ## Examples
 ```bash
 ffuf -u 'https://f030ceb1154faf1d02ba68c5e54756af.ctf.hacker101.com/index.php?page=view.php&id=FUZZ' -w <(seq 0 1000) -H 'Cookie: id=eccbc87e4b5ce2fe28308fd9f2a7baf3' -o fuzz-output.csv -of csv -fr "Post not found" -t 10 -p 0.2 -timeout 10 -v

@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/itsi/tools/hydra/"}
+{"dg-publish":true,"permalink":"/itsi/tools/hydra/","title":"Hydra","tags":["tool","hydra","brute-force","passwords","ctf"]}
 ---
 
+# Hydra
+[Official Link](https://www.kali.org/tools/hydra/)
 ## Examples
 ```bash
 hydra -l admin \                                                                                                                                                    

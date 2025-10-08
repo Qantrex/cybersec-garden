@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/itsi/tools/curl/"}
+{"dg-publish":true,"permalink":"/itsi/tools/curl/","title":"curl","tags":["tool","curl","http","requests","recon"]}
 ---
 
+# Curl
 [Official Link](https://curl.se/docs/manpage.html)
 
 Curl mit POST 

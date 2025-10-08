@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/itsi/tools/sqlmap/"}
+{"dg-publish":true,"permalink":"/itsi/tools/sqlmap/","title":"sqlmap","tags":["tool","sqlmap","sql-injection","recon"]}
 ---
 
 # sqlmap

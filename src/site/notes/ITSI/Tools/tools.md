@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/itsi/tools/tools/"}
+{"dg-publish":true,"permalink":"/itsi/tools/tools/","title":"Tools","tags":["tools","index","opsec"]}
 ---
 
 

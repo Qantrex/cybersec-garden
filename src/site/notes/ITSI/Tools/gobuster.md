@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/itsi/tools/gobuster/"}
+{"dg-publish":true,"permalink":"/itsi/tools/gobuster/","title":"Gobuster","tags":["tool","gobuster","directory-enumeration","discovery","recon"]}
 ---
 
 # Gobuster
